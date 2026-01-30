@@ -11,4 +11,4 @@ Este repositorio contiene un sitio web básico creado como parte de una activida
 - GitHub Pages
 
 ## Autor
-- Andres
+- Andres J
